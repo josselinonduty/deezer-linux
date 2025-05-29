@@ -63,7 +63,8 @@
     "snap": {
       "artifactName": "${productName}_${version}_${arch}.${ext}",
       "publish": [{
-        "provider": "github"
+        "provider": "generic",
+        "url": "https://null.dev/"
       }],
       "base": "core22",
       "grade": "stable",
