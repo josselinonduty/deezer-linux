@@ -64,7 +64,7 @@
       "artifactName": "${productName}_${version}_${arch}.${ext}",
       "publish": [{
         "provider": "github"
-      }]
+      }],
       "base": "core22",
       "grade": "stable",
       "confinement": "classic",
