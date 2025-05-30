@@ -64,7 +64,7 @@
       "artifactName": "${productName}_${version}_${arch}.${ext}",
       "publish": [{
         "provider": "generic",
-        "url": "https://null.dev/"
+        "url": "https://blank/"
       }],
       "base": "core22",
       "grade": "stable",
